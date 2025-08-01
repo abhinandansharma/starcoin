@@ -10,4 +10,4 @@ These should run on port - `127.0.0.1:5001`, `127.0.0.1:5002`, `127.0.0.1:5003`.
 You can send separate requests on each node through postman and try to alter the details on one node, which will be overwritten by the consensus netowrk(also know an 51% attack).
 
 
-<img width="2048" height="2048" alt="Gemini_Generated_Image_tnk3zwtnk3zwtnk3" src="https://github.com/user-attachments/assets/7942d58b-e04e-45ad-b070-ac1c56325d54" />
+<img width="2048" height="2048" alt="starcoin (1)" src="https://github.com/user-attachments/assets/5fcef9f9-f0a3-483d-a2b2-7dd0b844bfd5" />
